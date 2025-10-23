@@ -69,9 +69,4 @@ Docker · GitHub Actions · Label Studio
 **Core Competencies:**  
 Data Analysis · Machine Learning · Computer Vision · EDA · 
 
----
-
----
-
-⭐ *“Every great model starts with great data — and a curious mind.”*  
 
