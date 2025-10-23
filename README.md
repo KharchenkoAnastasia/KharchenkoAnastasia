@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Anastasiia Kharchenko  
-🎯 **Data Scientist | Machine Learning Enthusiast**
+🎯 **Data Scientist**
 ---
 
 ## 🚀 Projects
